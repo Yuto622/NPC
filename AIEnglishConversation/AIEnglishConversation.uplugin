@@ -1,0 +1,24 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "AI English Conversation",
+  "Description": "Talk to an NPC in English via an LLM (text chat). Includes a simple in-game chat UI (Slate) and an ActorComponent you can attach to any NPC.",
+  "Category": "AI",
+  "CreatedBy": "Cursor Agent",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": false,
+  "IsBetaVersion": true,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "AIEnglishConversation",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
+
