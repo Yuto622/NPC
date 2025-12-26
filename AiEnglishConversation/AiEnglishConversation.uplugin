@@ -1,0 +1,25 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "AI English Conversation",
+  "Description": "Drop-in plugin to chat in English with NPCs via an OpenAI-compatible Chat Completions endpoint.",
+  "Category": "AI",
+  "CreatedBy": "Cursor Cloud Agent",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "EnabledByDefault": false,
+  "CanContainContent": false,
+  "IsBetaVersion": true,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "AiEnglishConversation",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
