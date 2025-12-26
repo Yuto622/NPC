@@ -12,11 +12,10 @@ public class AIEnglishConversation : ModuleRules
 				"Core",
 				"CoreUObject",
 				"Engine",
+				"DeveloperSettings",
 				"HTTP",
 				"Json",
-				"JsonUtilities",
-				"Slate",
-				"SlateCore"
+				"JsonUtilities"
 			}
 		);
 	}
